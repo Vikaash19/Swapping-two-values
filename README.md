@@ -30,7 +30,8 @@ y=a
 print("Swapped values are:",n,y)
 ~~~
 # OUTPUT:
-![Alt text](<Screenshot 2023-10-20 090937.png>)
+![Screenshot 2023-10-20 090937](https://github.com/Vikaash19/Swapping-two-values/assets/148514589/f2181912-8d50-4d6a-8dbc-94e900b4a92f)
+
 ## RESULT:
 Thus the swapping of two values are successfully executed
 
